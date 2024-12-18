@@ -1,7 +1,4 @@
-//---------------Important-----------------//
-// import React, { useState, useEffect } from "react";
-// import { io } from "socket.io-client";
-// import "./ChatApp.css";
+
 
 // // Initialize Socket.IO client
 // const socket = io("http://192.168.101.32:4000");
